@@ -1,10 +1,10 @@
-## Hi! I'm Andrea 👋
+# Hi! I'm Andrea 👋
 ### aka Fonta
 
 - :rocket: I’m currently working on my skills
 - 🌱 I’m currently learning Laravel and VueJs
 - :space_invader: Hobbies: Videogames, Tech, Music and Motors
-- :mailbox: How to reach me: andrea.fontaneto@gmail.com
+- :mailbox: Contact me: andrea.fontaneto@gmail.com
 
 
 <!--
