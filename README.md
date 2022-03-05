@@ -10,9 +10,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<andreafontaneto>&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreafontaneto&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=<andreafontaneto>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreafontaneto&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
